@@ -1,3 +1,3 @@
 function testeAlerta(){
-    alert('Teste')
+    alert('Este alerta foi criado simulando outro usuário em outro equipamento e rede!')
 }
